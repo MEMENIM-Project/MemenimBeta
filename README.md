@@ -1,4 +1,4 @@
-# Memenim (Beta)
+# MEMENIMβ
 
 ##### *Основано на [этом](https://github.com/MEMENIM-Project/Memenim)*
 
